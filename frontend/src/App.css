@@ -1,0 +1,39 @@
+/* App.css */
+body {
+  background-color: #f8f9fa; /* Light background for default */
+  color: #212529; /* Dark text for readability */
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* App.css */
+.bg-light {
+  background-color: #f7e6ab !important; /* pale yellow */
+}
+
+/* Main content container styling */
+.content {
+  min-height: calc(100vh - 120px); /* Subtract navbar and footer height */
+}
+
+/* Theme variations */
+.theme-light {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.theme-dark {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+.theme-blue {
+  background-color: #e7f5ff; /* Soft blue background */
+  color: #271106;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
