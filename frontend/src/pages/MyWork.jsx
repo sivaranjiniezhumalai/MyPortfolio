@@ -4,12 +4,12 @@ import project4 from "../assets/leetcode-profile.png";
 export default function MyWork() {
   const projects = [
     {
-      title: "From Scroll to Sauce in Seconds",
+      title: "Online Data Tracker",
       description:
-        "Forget cluttered cookbooks! This app acts as your kitchen assistant, serving up pixel-perfect recipes, ingredients, and simple steps. Save your favorites and conquer dinner like the culinary genius you are.",
+        "A full stack project using Spring Boot and Docker with write-back enabled and Dashboard connects to a FastAPI service for Forecasting using python",
       image:
-        "https://github.com/sivaranjiniezhumalai/fullstack-recipe-app/blob/main/recipe-app-figma-ui-design2.jpg?raw=true",
-      link: "https://github.com/sivaranjiniezhumalai/fullstack-recipe-app",
+        "https://github.com/sivaranjiniezhumalai/online-data-tracker/raw/main/output.png",
+      link: "https://github.com/sivaranjiniezhumalai/online-data-tracker/tree/main",
     },
     {
       title: "Mealprep",
