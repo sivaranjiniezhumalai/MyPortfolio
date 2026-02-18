@@ -1,12 +1,11 @@
 ﻿# MyPortfolio
-
-![edit id](https://github.com/sivaranjiniezhumalai/MyPortfolio/blob/main/Screenshot%202025-10-23%20204155.png?raw=true)
-
 🦕 Hello Everyone !!! 🦕🦕🦕
 
 I am very happy that I can create a my own website to let know people about me and my work. It is really exciting to have a personal space on the internet.🌟
 Take a look at my portfoliio - https://my-portfolio-sivaranjini.vercel.app/  
 to know more about me....
+
+![edit id](https://github.com/sivaranjiniezhumalai/MyPortfolio/blob/main/Screenshot%202025-10-23%20204155.png?raw=true)
 
 Every day I like to chill and relax at evening after completing my planned work - So Do I mean sleeping by relax ? 🫥
 
@@ -21,4 +20,5 @@ There are many ideas , designs and projects in my mind that I want to implement 
 Thats why I am here to share my work with you all. 🍻🤜🤛
 
 🚩 I hope you will like it and give your feedback to improve it more and more. 🚩
+
 
