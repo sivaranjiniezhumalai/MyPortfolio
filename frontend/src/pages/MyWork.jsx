@@ -6,7 +6,7 @@ export default function MyWork() {
     {
       title: "Online Data Tracker",
       description:
-        "A full stack project using Spring Boot and Docker with write-back enabled and Dashboard connects to a FastAPI service for Forecasting using python",
+        "A full stack project using Spring Boot and Docker with write-back enabled and Dashboard connects to a FastAPI service for Forecasting using python. The ML model then re-calculates the 7-day forecast in real-time based on the user's manual changes, allowing them to perform 'What-If' analysis directly on the dashboard. I created a dynamic feedback loop. When a user utilizes the Write-Back feature to update a record",
       image:
         "https://github.com/sivaranjiniezhumalai/online-data-tracker/raw/main/output.png",
       link: "https://github.com/sivaranjiniezhumalai/online-data-tracker/tree/main",
